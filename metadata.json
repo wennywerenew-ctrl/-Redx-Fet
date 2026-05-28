@@ -1,0 +1,6 @@
+{
+  "name": "NextCome AI",
+  "description": "An elite AI-powered vibe coding platform to generate, edit, preview, and export full-stack applications with an immersive, premium, glassmorphic dark-mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
